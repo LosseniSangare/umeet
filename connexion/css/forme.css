@@ -1,0 +1,25 @@
+
+@media (min-width: 800px) {  
+#main_menu_nav,#main_menu_nav   {
+	background-color: rgba(122,122,122,0.6);
+	height: 50px;
+	padding: 0;
+}
+
+#main_menu_nav .active {background-color: rgba(122,122,122,0.2); height: 70px;}
+
+
+  .logo-pro-contraint{height: 100px;}
+}
+
+.main-nav li:hover {background-color: rgba(122,122,2,0.2); height: 70px;}
+}
+
+
+@media (max-width: 800px){
+
+	.footer{
+		min-height: 480px;
+	}
+
+}
